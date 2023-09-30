@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.1.10:8888/guide.xml"
+#EXTM3U url-tvg="https://github.com/davidmuma/EPG_dobleM/blob/master/guiafanart_color.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.47374f553fc1e634129fd0328dcaabbd?rik=G5gKoQmvc7y4xQ&pid=ImgRaw&r=0",M. LaLiga 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
